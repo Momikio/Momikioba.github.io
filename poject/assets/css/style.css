@@ -67,6 +67,7 @@ html {
     top: 0;
     left: 0;
     right: 0;
+    bottom: 0;
 }
 
 
@@ -160,6 +161,7 @@ html {
 #slider {
     padding-top: 50%;
     background: url(https://www.w3schools.com/w3images/chicago.jpg) top center / cover no-repeat;
+    margin-top: 46px;
 }
 
 #slider .slider-name {
